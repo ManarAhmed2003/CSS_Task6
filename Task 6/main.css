@@ -1,0 +1,49 @@
+html{
+    font-size: 20px;
+}
+div {
+    margin: 20px auto;
+    padding: 20px;
+    border: 5px solid #ff5722;
+}
+div p{
+    text-align: center;
+    border: inherit;
+    padding: inherit;
+    background-color: #eee;
+}
+.pp{
+    margin: 20px auto;
+    padding: 20px;
+    border: 5px solid green;
+}
+div .pp p {
+    text-align: center;
+    border: inherit;
+    padding: inherit;
+    background-color: #eee;
+}
+p{
+    text-transform: capitalize;
+    text-align: center;
+}
+.one{
+    font-family: 'Open Sans', sans-ser;
+}
+.two{
+    font-family: 'Cairo', sans-serif;
+
+}
+.three{
+    font-family: 'Jomhuria', cursive;
+
+}
+.four{
+    font-size: 2.5rem;
+}
+.five{
+    font-size: 2rem;
+}
+.six{
+    font-size: 1.5rem;
+}
